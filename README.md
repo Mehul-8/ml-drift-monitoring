@@ -1,6 +1,7 @@
 # ML Model Drift Monitor
 
-A lightweight Python tool that monitors machine learning models for data drift in production. It detects when incoming data starts diverging from the training distribution using statistical tests, logs alerts, and visualizes drift over time.
+A lightweight Python tool that monitors
+machine learning models for data drift in production. It detects when incoming data starts diverging from the training distribution using statistical tests, logs alerts, and visualizes drift over time.
 
 ---
 
